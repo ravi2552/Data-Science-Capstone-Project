@@ -5,7 +5,7 @@
 This repository holds the final capstone project for the Data Science with Python Career Program by Skill Academy. It utilizes a Car Details dataset to perform Exploratory Data Analysis (EDA), train and evaluate a model to predict car prices, and deploy a web application using Streamlit for user-driven predictions.
 
 
-## Project Goals:
+### Project Goals:
 
  - **Explore and Analyze:** Conduct in-depth exploration of the car dataset to understand its characteristics and identify potential relationships between features.
  - **Visualize:** Create insightful data visualizations to uncover patterns, trends, and anomalies.
@@ -16,7 +16,7 @@ This repository holds the final capstone project for the Data Science with Pytho
  - **Streamlit Deployment:** Develop a user-friendly web application using Streamlit for real-time car price predictions based on user-provided parameters.
 
 
-## Features:
+### Features:
 
  - Comprehensive EDA notebook for detailed data exploration.
  - Well-structured code for data preprocessing, modeling, and evaluation.
@@ -25,7 +25,7 @@ This repository holds the final capstone project for the Data Science with Pytho
 
 
 
-## Getting Started:
+### Getting Started:
 - **Clone the Repository:** git clone https://github.com/ravi2552/Data-Science-Capstone-Project.git
 - **Install Dependencies:** pip install -r requirements.txt
 - **Run EDA and Modeling:** Open the EDA notebook in your Jupyter Notebook environment and follow the instructions within for analysis and model development.
@@ -36,6 +36,12 @@ This repository holds the final capstone project for the Data Science with Pytho
 
 
 
+### Project Structure:
 
+ - **data:** Contains the car sales dataset.
+ - **notebooks:** Houses the EDA and modeling notebooks.
+ - **src:** Includes code for data preprocessing, modeling functions, and (potentially) utility functions.
+ - **app.py:** Implements the Streamlit web app for user-driven predictions.
+ - **requirements.txt:** Lists all project dependencies.
 
 
