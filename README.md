@@ -26,7 +26,7 @@ This repository holds the final capstone project for the Data Science with Pytho
 
 
 ## Getting Started:
-- **Clone the Repository:** git clone https://github.com/<your-username>/car-sales-price-prediction.git
+- **Clone the Repository:** git clone https://github.com/ravi2552/Data-Science-Capstone-Project.git
 - **Install Dependencies:** pip install -r requirements.txt
 - **Run EDA and Modeling:** Open the EDA notebook in your Jupyter Notebook environment and follow the instructions within for analysis and model development.
 - **Deploy Streamlit App:** streamlit run app.py
