@@ -41,10 +41,9 @@ This repository holds the final capstone project for the Data Science with Pytho
  - **data:** 
           - Contains the car sales dataset - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/CAR%20DETAILS.csv">Raw Data</a><br>
           - After data cleaning and manipulation - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/cleaned%20data.csv">Cleaned Data</a><br>
-          - After model building, training and testing use this random sample to generate predictions<a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/20_random_sample.csv">Sample Data</a>
+          - After model building, training and testing use this random sample to generate predictions - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/20_random_sample.csv">Sample Data</a>
  - **notebooks:** Houses the EDA and modeling notebooks.
- - **src:** Includes code for data preprocessing, modeling functions, and (potentially) utility functions.
- - **app.py:** Implements the Streamlit web app for user-driven predictions.
- - **requirements.txt:** Lists all project dependencies.
+ - **app.py:** Implements the Streamlit web app for user-driven predictions. - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/app.py">Streamlit app.py</a> <br>
+ - **requirements.txt:** Lists all project dependencies. - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/requirements.txt">Requirements</a>
 
 
