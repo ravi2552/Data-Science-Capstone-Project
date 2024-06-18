@@ -51,9 +51,8 @@ This repository holds the final capstone project for the Data Science with Pytho
 
 
 
+### Demo Video of Streamlit App
 
-### Demo Video:
-
-Check out the demo video to see the project in action:
-
-[![Capstone Project Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/Prediction%20Demo.mp4)
+<p align="center">Stream Lit Demo
+<video src="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/Prediction%20Demo.mp4" width="600" height="400" controls>Streamlit Demo</video>
+</p>
