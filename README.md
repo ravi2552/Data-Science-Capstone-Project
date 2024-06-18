@@ -38,9 +38,9 @@ This repository holds the final capstone project for the Data Science with Pytho
 
 ### Project Structure:
 
- - **data:** Contains the car sales dataset.
-          - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/CAR%20DETAILS.csv">Raw Data</a>
-          - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/cleaned%20data.csv">Cleaned Data</a>
+ - **data:** 
+          - Contains the car sales dataset - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/CAR%20DETAILS.csv">Raw Data</a><br>
+          - After data cleaning and manipulation - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/cleaned%20data.csv">Cleaned Data</a><br>
           - After model building, training and testing use this random sample to generate predictions<a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/20_random_sample.csv">Sample Data</a>
  - **notebooks:** Houses the EDA and modeling notebooks.
  - **src:** Includes code for data preprocessing, modeling functions, and (potentially) utility functions.
