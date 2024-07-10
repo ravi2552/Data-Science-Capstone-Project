@@ -48,5 +48,6 @@ This repository holds the final capstone project for the Data Science with Pytho
  - **app.py:** Implements the Streamlit web app for user-driven predictions. - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/app.py">Streamlit app.py</a> <br>
  - **requirements.txt:** Lists all project dependencies. - <a href="https://github.com/ravi2552/Data-Science-Capstone-Project/blob/main/requirements.txt">Requirements</a>
 
-
+### Web App Demo
+https://github.com/ravi2552/Data-Science-Capstone-Project/assets/119592248/193624c1-63b6-471c-b3a3-07524afd3636
 
